@@ -31,5 +31,8 @@ yarn-error.log*
 # vercel
 .vercel
 
-# Tailwind compiled css
+# tailwind compiled css
 tailwind.css
+
+# package-lock.json
+package-lock.json
